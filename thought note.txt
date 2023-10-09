@@ -1,0 +1,12 @@
+Home page:
+    I used one quote on the center and one menu button. A navbar is divided into 4 sections.
+
+Menu page:
+   Menu page have list of items which categorized into three parts - Breakfast, Lunch, Dinner.
+   When we hover on image that image will be zoom out. I used transform protery.
+
+About page:
+    This about us page consist of one image and paragraph. I used flex property to display image on right side ang paragraph on left side.
+
+contact page:
+    Here I also used a flex property. I  used font-awesome for address, email and contact no.  also for the icons of social media.
